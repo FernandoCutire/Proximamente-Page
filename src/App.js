@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Notifícame cuandone esté lista
+          Notifícame cuando esté lista
         </a>
       </header>
     </div>
